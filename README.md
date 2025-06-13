@@ -26,7 +26,7 @@ This guide is divided into the following main sections. Each section may contain
     *   [Installing Necessary Apps](./06_Android_Client_Setup/6.1_Installing_Apps.md)
     *   [Importing Your Private GPG Key](./06_Android_Client_Setup/6.2_Importing_GPG_Key.md)
     *   [Configuring APS](./06_Android_Client_Setup/6.3_Configuring_APS.md)
-7.   ⚙️ **[Daily Usage](./07_Daily_Usage/README.md)**
+7.  ⚙️ **[Daily Usage](./07_Daily_Usage/README.md)**
     *   [CLI Usage on Arch Linux](./07_Daily_Usage/7.1_CLI_Usage_Arch.md)
     *   [Using `qtpass` (KDE GUI)](./07_Daily_Usage/7.2_QtPass_KDE.md)
     *   [Using APS (Android)](./07_Daily_Usage/7.3_APS_Usage_Android.md)
