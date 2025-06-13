@@ -17,7 +17,7 @@ This guide is divided into the following main sections. Each section may contain
     *   [Creating a Dedicated User](./04_Server_Git_Setup/4.2_Dedicated_User.md)
     *   [Creating the Bare Git Repository](./04_Server_Git_Setup/4.3_Bare_Repository.md)
     *   [Configuring SSH Access](./04_Server_Git_Setup/4.4_SSH_Access.md)
-5.  💻 **[Arch Linux Client Setup (KDE/Wayland)](./05_Arch_Linux_Client_Setup/README.md)**
+5.  💻 **[Linux Client Setup (KDE)](./05_Arch_Linux_Client_Setup/README.md)**
     *   [Installing `pass` and Related Tools](./05_Arch_Linux_Client_Setup/5.1_Installing_Pass.md)
     *   [Initializing `pass` with Your GPG Key](./05_Arch_Linux_Client_Setup/5.2_Initializing_Pass_GPG.md)
     *   [Initializing the Git Repository for `pass`](./05_Arch_Linux_Client_Setup/5.3_Initializing_Git_Repo.md)
