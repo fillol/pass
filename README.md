@@ -1,9 +1,9 @@
 # The Ultimate `pass` Guide
-Welcome to the comprehensive guide for setting up and using `pass` (The Standard Unix Password Manager) securely and synchronized across multiple devices.
-This guide is designed for easy navigation. If you're an expert user looking for quick commands, jump straight to [**🚀 In a Nutshell / Quick Start**](./00_In-A-Nutshell.md).
+Welcome to the comprehensive guide for setting up and using `pass` (The Standard Unix Password Manager) securely and synchronized across multiple devices
+This guide is designed for easy navigation. If you're an expert user looking for quick commands, jump straight to [**🚀 In a Nutshell / Quick Start**](./00_In-A-Nutshell.md)
 
 ## Main Table of Contents
-This guide is divided into the following main sections. Each section may contain multiple pages for easier reading.
+This guide is divided into the following main sections. Each section may contain multiple pages for easier reading
 
 0.  🚀 **[In a Nutshell / Quick Start for Experts](./00_In-A-Nutshell.md)**
 1.  🤔 **[Introduction: What is `pass` and Why This Setup?](./01_Introduction_and_Why.md)**
@@ -43,4 +43,4 @@ This guide is divided into the following main sections. Each section may contain
 10. 🆘 **[Common Issues & Troubleshooting](./10_Troubleshooting.md)**
 
 ---
-Let's get started! Begin with [🤔 Introduction: What is `pass` and Why This Setup?](./01_Introduction_and_Why.md) or, if you're in a hurry, the [🚀 In a Nutshell / Quick Start](./00_In-A-Nutshell.md).
+Let's get started! Begin with [🤔 Introduction: What is `pass` and Why This Setup?](./01_Introduction_and_Why.md) or, if you're in a hurry, the [🚀 In a Nutshell / Quick Start](./00_In-A-Nutshell.md)
